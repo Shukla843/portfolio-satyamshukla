@@ -46,7 +46,7 @@ export const skillCategories = [
       { name: 'Git',     color: '#f05032' },
       { name: 'GitHub',  color: '#aaa' },
       { name: 'Render',  color: '#2496ed' },
-      { name: 'AWS EC2', color: '#f90' },
+      { name: 'Linux', color: '#f90' },
       { name: 'Vercel',  color: '#aaa' },
       { name: 'Postman', color: '#ff6c37' },
     ],
