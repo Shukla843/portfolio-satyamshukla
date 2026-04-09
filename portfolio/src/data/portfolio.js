@@ -137,17 +137,7 @@ export const projects = [
     code: 'https://github.com/Shukla843/studynotion',
     gradient: 'from-accent/10 to-accent2/10',
   },
-  {
-    emoji: '💬',
-    name: 'ChatFlow — Real-time Chat App',
-    desc: 'Real-time messaging with private & group chats, file sharing, online status, and JWT-secured authentication.',
-    stack: ['React', 'Node.js', 'Socket.IO', 'MongoDB', 'JWT'],
-    tags: ['Real-time', 'Socket.IO'],
-    tagColors: ['full', 'api'],
-    live: 'https://chat-app-two-tau-38.vercel.app/',
-    code: 'https://github.com/Shukla843/ChatApp',
-    gradient: 'from-accent2/10 to-accent3/10',
-  },
+ 
   {
     emoji: '🤖',
     name: 'AI interview preparation - resume-analysis-app',
@@ -169,6 +159,17 @@ export const projects = [
     live: 'https://fake-news-detection-teal-two.vercel.app/',
     code: 'https://github.com/Shukla843/Fake-news-detection-',
     gradient: 'from-accent3/10 to-accent/10',
+  },
+   {
+    emoji: '💬',
+    name: 'ChatFlow — Real-time Chat App',
+    desc: 'Real-time messaging with private & group chats, file sharing, online status, and JWT-secured authentication.',
+    stack: ['React', 'Node.js', 'Socket.IO', 'MongoDB', 'JWT'],
+    tags: ['Real-time', 'Socket.IO'],
+    tagColors: ['full', 'api'],
+    live: 'https://chat-app-two-tau-38.vercel.app/',
+    code: 'https://github.com/Shukla843/ChatApp',
+    gradient: 'from-accent2/10 to-accent3/10',
   },
   {
     emoji: '🏥',
