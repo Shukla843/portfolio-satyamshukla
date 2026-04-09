@@ -18,7 +18,7 @@ const links = [
   { icon: <FaLinkedin />, label: 'LinkedIn', val: 'linkedin.com/in/satyamshukla',     href: 'https://www.linkedin.com/in/satyam-shukla-b17220238/' },
   { icon: <FaGithub />, label: 'GitHub',   val: 'github.com/Shukla843',          href: 'https://github.com/Shukla843' },
   { icon: <FaMapMarkerAlt />, label: 'Location', val: 'Bhopal, Madhya Pradesh, India',    href: null },
-  { icon: <FaPhoneAlt />, label: 'phone', val: '6268248990',    href: null },
+ 
 ]
  
 export default function Contact() {
